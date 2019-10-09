@@ -7,7 +7,7 @@
 
 3. Blokirati robote (settings -> reading -> cekirati search engine visibility)
 
-4. Na nivou vivify_theme teme u editoru odraditi search and replace, “vivify_theme” zameniti za ime projekta (ime teme bi treblalo da bude isto kao i ime projekta)
+4. Na nivou "wordpress-starter-theme" foldera (teme) u editoru odraditi search and replace, “vivify_theme” zameniti za ime projekta (ime teme bi treblalo da bude isto kao i ime projekta)
 
 5. Ubaciti vivify_theme (sada vec sa izmenjenim imenom) temu u themes folder (ukoliko koristimo flywheel) putanja: 
    Local Sites -> Ime Projekta -> app -> public -> wp-content -> themes
